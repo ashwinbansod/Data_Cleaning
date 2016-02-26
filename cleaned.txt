@@ -1,0 +1,72 @@
+Adiutori - American fiction and mass culture
+Ansari - American fiction and mass culture|Foundations of electromagnetism and modern physics|Structural analysis
+Archias - Collections and visual knowledge in early modern Europe|Introduction to modernism : past , future , exile , home
+Bailey - Introduction to science and society : theories and controversies|Operating systems
+Bassiri - Heat and mass transfer|Principles of ecology
+Bell - Art after India|Photo-Lab : the visual performance of rights|Software engineering
+Bergerwolf - Advanced probabilistic methods in computer science|Algorithms for big data|Architecture of the house through space and time|Biomaterialz|Building a web application|Computational methods for biology|Introduction to film making : time and form|Recent applications of probability and statistics|Topics in information retrieval and web search|Writing and speaking Chinese i
+Boy - Hilbert spaces and their applications|Introduction to film making : time and form|Narrative and immersion
+Brennan - Astrophysics and cosmology|Intermediate 3d computer animation
+Caliskan - Analytic geometry and calculus|Electrical circuits and signals|Melville , Conrad , and the sea|Statistical mechanics
+Checkoway - Computer systems security : principles and practice|Getting emotional : passionate theories|Introduction to combinatorial optimization|Topics in ecology and evolutionary biology
+Chudnovsky - Foundations of electromagnetism and modern physics|Fracture mechanics|Introduction to computation for the humanities and social sciences|Topics in grounded language for robotics
+Clarno - Chemical process design|Introduction to computation for the humanities and social sciences
+Cranch - 3D photography and geometry processing
+Cui - Computational theory of molecular evolution|The post colonial and the postmodern
+Dai - Introductory calculus , part ii
+Dasgupta - Cultures and countercultures : the American novel after world war ii|Parallel computation : models , algorithms , limits
+Di Eugenio - Computational physics|Fracture mechanics|The united states metropolis
+Dunn - Introduction to architectural design
+Eriksson - Computer graphics lab|Introduction to computation for the humanities and social sciences
+Fink - The Korean war in color|The public intellectual
+Fish - 3D photography and geometry processing|Introduction to computation for the humanities and social sciences|Introduction to computer graphics|The foundation of living systems
+Forbes - Introductory biochemistry
+Foster - Analytic geometry and calculus|Mechanics of solids
+Furman - Art after India|Distributed computing through combinatorial topology|Probabilistic graphical models|Probabilistic methods in computer science
+Gallik - Introduction to computer graphics|Molecular genetics
+Gillet - Algebraic geometry|Analytic geometry and calculus|Data-Driven vision and graphics|Pompeii : art , architecture , and archeology in the lost city|Quantum mechanics
+Gmytrasiewicz - Computational methods for biology|Fundamentals of computer systems|Literary communities|Topics in ecology and evolutionary biology
+Hogan - Computational theory of molecular evolution|Interdisciplinary scientific visualization|Operations research : probabilistic models
+Hummel - Introduction to algorithms and data structures|Introductory calculus , part ii|Introductory compiler construction|Transport and biotransport processes
+Jin - Advanced algorithms seminar|Hilbert spaces and their applications
+Johnson - Cell and molecular biology|Computer aided visualization and design
+Jones - Building intelligent robots|Filtering and prediction of hidden Markov models|Partial differential equations|The literary scholar
+Kanich - Accelerated introduction to computer science|Computer networks|Nineteenth-Century British novel
+Kenyon - Human factors and user interface design
+Krall - Nature and law in American literature|Nineteenth-Century British novel|The post colonial and the postmodern
+Kshemkalyani - Filtering and prediction of hidden Markov models|Introductory calculus , part i|Parallel computation : models , algorithms , limits
+Lekili - Filtering and prediction of hidden Markov models|Introductory calculus , part i
+Lillis - Advanced programming for digital art and literature|Coding the matrix : linear algebra through computer science applications|Educational software seminar|Introduction to computation for the humanities and social sciences|Parallel and distributed programming
+Lu - Biomaterials|Computational fluid dynamics|Crossing the consumer chasm by design|Innovation and technology management ii|Models of computation|Pattern recognition and machine learning|Temporalities|The literary scholar|Writing and speaking Chinese i
+Lyons - Cultures and countercultures : the American novel after world war ii|Human-Computer interaction seminar|Internet and web algorithms|Introduction to scientific computing|Reinventions of life : aesthetics , geopolitics , and the Avant-Gardes|Writing and speaking German i
+Marai - 2D game engines|Temporalities
+Metlushko - Mathematical statistics|Melville , Conrad , and the sea|Stem cell engineering|Women 's voices in medieval literature
+Mojab - Individual independent study|Introduction to power engineering
+Ozevin - Fundamentals of computer systems|Honors linear algebra|Introduction to scientific computing and problem solving|Transport and biotransport processes
+Rao - Collections and visual knowledge in early modern Europe|Combinatorial topology|Independent study in 2D game engines|Touring the empire : travel literature and the idea of America
+Reddy - Altered states|Quantum mechanics|Reinventions of life : aesthetics , geopolitics , and the Avant-Gardes
+Reed - Introduction to discrete structures and probability|Thermodynamics
+Sauerwald - American poetry ii : modernism|Computer systems security : principles and practice|Computer vision|Pattern recognition and machine learning|Talking with computers|The post colonial and the postmodern|Topics in information retrieval and web search|Writing and speaking Chinese i
+Savar - Computational topology|Fieldwork in the urban community|Intellectual life and culture in the Post-Western world
+Shonfeld - Computer aided visualization and design|Heat and mass transfer|Medical bioinformatics
+Siber - 3D photography|Cell and molecular biology|Reading and research
+Sinapova - Introduction to computational geometry|The claims of fiction
+Sistla - Algorithmic foundations of computational biology|Database management systems|Dynamics and vibrations|El greco and Velázquez|Introduction to computer graphics|Introduction to power engineering|Molecular genetics|Pompeii : art , architecture , and archeology in the lost city
+Sloan - Introduction to computational linguistics
+Soheili - Biophysical and bioinorganic chemistry|Shakespeare
+Solworth - Introduction to computation for the humanities and social sciences|Mechanics of solids|Nineteenth-Century architecture
+Tafti - Advanced programming for digital art and literature|Introduction to scientific computing|Managerial decision making|Recent applications of probability and statistics|The design and analysis of trading agents|Topics in data science|Topics in game-theoretic artificial intelligence
+Taylor - Biophysical and bioinorganic chemistry|The aesthetics of color : history , theory , critique
+Theys - Cinematic coding and narrativity|Distributed computing through combinatorial topology|Foundations of electromagnetism and modern physics|Introduction to algorithms and data structures|Inventing the past : amulets , heirlooms , monuments , landscapes|Principles of ecology|Virtual citizens or subjects ? the global battle over governing your Internet
+Troy - Computer aided visualization and design|Introductory compiler construction|The design and analysis of trading agents
+Valbonesi - Computer vision
+Vamanan - Complex function theory|Data-Driven vision and graphics|Dynamics and vibrations
+Velebit - Advanced programming for digital art and literature|Autonomous agents and computational market design|Reinventions of life : aesthetics , geopolitics , and the Avant-Gardes|Transport and biotransport processes
+Vinella - Introduction to combinatorial optimization|Software system design|Topics in computer vision
+Walden - Back to the future : nostalgia and futurity in contemporary Sci-Fi iv and telefantasy|Environmental history|Hilbert spaces and their applications|Human factors and user interface design|Interdisciplinary scientific visualization|Introduction to systems programming|Special topics in advanced algorithms|Topics in 3D game engine development|Topics in ecology and evolutionary biology
+Westland - Introductory calculus , part ii|Melville , Conrad , and the sea|Narrative and immersion|Probabilistic graphical models|Projects in engineering design|Victorian inequality
+Wolak - American fiction and mass culture|Descartes ' world
+Wolfson - Data-Driven vision and graphics|Database management systems
+Yu - Altered states|Applied artificial intelligence|Computers and human values|Special topics in advanced algorithms
+Ziebart - Introduction to number theory|Machine learning reading group
+Zuck - Basic physics|Statistical inference ii
